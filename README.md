@@ -32,7 +32,7 @@ Il est alors possible de lancer une nouvelle partie et de la sauvegarder à tout
 
 Dans le dossier du projet, on retrouve un Makefile permettant de faire les commandes suivantes : <br>
 ```
-• make : compile le programme <br>
-• make run : lance le jeu <br>
+• make : compile le programme
+• make run : lance le jeu
 • make clean : efface tous les dossiers et fichiers générés pendant la compilation 
 ```
