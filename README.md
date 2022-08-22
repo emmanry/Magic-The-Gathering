@@ -1,7 +1,21 @@
 # Magic
 
+<p float="left">
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
+  <a href="https://cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+  <a href="https://junit.org/junit5/">
+      <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  </a>
+</p>
+
 Ce projet est une version extrêmement simpliée du jeu de carte à collectionner Magic The Gathering. <br>
-Développé en 2022 - C++ - Se joue sur la console
 
 ## Fonctionnalités implémentées
 
