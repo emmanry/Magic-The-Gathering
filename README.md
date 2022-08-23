@@ -1,4 +1,4 @@
-# Magic
+# Magic The Gathering
 
 <p float="left">
   <a href="https://ubuntu.com/">
